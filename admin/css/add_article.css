@@ -1,0 +1,19 @@
+/*文章标题*/
+#article_name {
+    width: 60%;
+    margin: 50px auto 0 auto;
+}
+
+/*编辑区*/
+#editor {
+    width: 60%;
+    margin: 30px auto 0 auto;
+    background-color: rgb(255,255,255);
+}
+
+/*提交按钮*/
+#submit_button {
+    position: absolute;
+    right: 20%;
+    margin-top: 20px;
+}

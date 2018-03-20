@@ -1,0 +1,16 @@
+.list-group {
+    width: 60%;
+    margin: 50px auto;
+}
+.list-group .list-group-item {
+    height: 100px;
+    margin-bottom: 30px;
+}
+.list-group .list-group-item h3 {
+    margin-top: 10px;
+}
+
+#list_item_bottom {
+    margin-top: 20px;
+    text-align: right;
+}
